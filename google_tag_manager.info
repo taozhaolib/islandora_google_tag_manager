@@ -1,0 +1,5 @@
+name = Google Tag Manager
+description = "Inserts the Google Tag Manager code to Islandora site"
+version = 7.x-dev
+core = 7.x
+scripts[] = js/google_tag_manager.js
